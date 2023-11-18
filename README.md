@@ -1,4 +1,4 @@
-![image](https://github.com/jeeva078/NearMe/assets/147048597/2877c710-1fbb-4365-9a4c-d0d8e95d06b4)# Ex04 Places Around Me
+# Ex04 Places Around Me
 ## AIM
 To develop a website to display details about the places around my house.
 
