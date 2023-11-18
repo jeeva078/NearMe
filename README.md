@@ -235,7 +235,8 @@ Execute the programs and publish them.
 ```
 ## OUTPUT
 ### MAP
-![Screenshot (89)](https://github.com/jeeva078/NearMe/assets/147048597/85544bca-91aa-4fea-a374-44fdaeac98d1)
+![Screenshot (90)](https://github.com/jeeva078/NearMe/assets/147048597/d4ea16eb-680b-4969-ba89-771b2cd946a0)
+
 
 
 ### SCHOOL
