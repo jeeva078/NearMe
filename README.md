@@ -1,4 +1,4 @@
-# Ex04 Places Around Me
+![image](https://github.com/jeeva078/NearMe/assets/147048597/2877c710-1fbb-4365-9a4c-d0d8e95d06b4)# Ex04 Places Around Me
 ## AIM
 To develop a website to display details about the places around my house.
 
@@ -234,6 +234,20 @@ Execute the programs and publish them.
 </html>
 ```
 ## OUTPUT
+### MAP
+![Screenshot (89)](https://github.com/jeeva078/NearMe/assets/147048597/85544bca-91aa-4fea-a374-44fdaeac98d1)
+
+
+### SCHOOL
+![image](https://github.com/jeeva078/NearMe/assets/147048597/795046e2-27e5-4efa-97c5-1ba0e0b487b6)
+### COLLEGE
+![image](https://github.com/jeeva078/NearMe/assets/147048597/c432e8bc-3c7b-4904-a41e-f364c03192ee)
+### AOoffice
+![image](https://github.com/jeeva078/NearMe/assets/147048597/bf7f9a9e-2700-4d91-abda-70e7ea6e4909)
+### TEMPLE
+![image](https://github.com/jeeva078/NearMe/assets/147048597/59bb4f6b-c9fa-4275-850e-3a6447195903)
+### GROUND
+![image](https://github.com/jeeva078/NearMe/assets/147048597/bd9faa75-9a6c-4ad5-a544-58a299f94df3)
 
 
 
