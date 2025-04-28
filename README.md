@@ -118,13 +118,8 @@ falls.html
 
 ## OUTPUT
 
-![alt text](<Screenshot 2025-04-21 114947.png>)
+![k hills](https://github.com/user-attachments/assets/1a821eae-d1fb-4dbe-a2ee-fa39589962a1)
 
-![alt text](<Screenshot 2025-04-21 210545.png>)
-
-![alt text](<Screenshot 2025-04-21 210650.png>)
-
-![alt text](<Screenshot 2025-04-21 210555.png>)
 
 
 
